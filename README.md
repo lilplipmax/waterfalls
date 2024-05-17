@@ -3,4 +3,5 @@
 \
 Это был отличный опыт изучения геометрии и интеграции математических формул в код. 
 Была использован даже такой функционал, как Convex function
-<img src="[Assets/icon.png](https://github.com/lilplipmax/waterfalls/assets/149680455/d61ee132-0a52-47f4-8b58-b3b2f582fd77)" width="200">
+\
+<img src="https://github.com/lilplipmax/waterfalls/assets/149680455/ef3a91ca-6355-45f2-a637-045e43dd38b0" width="600"/>
